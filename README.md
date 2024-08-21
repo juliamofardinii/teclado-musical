@@ -1,7 +1,7 @@
 ## Teclado Musical
 Fiz este projeto de teclado musical onde o usuário consegue emitir o som ao clicar nos botões desejados.
 
-## Técnicas e teclogias utilizadas
+## Técnicas e tecnologias utilizadas
 
 * HTML
 * CSS
